@@ -3,6 +3,11 @@ team: Leopards
 manager: Luke
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+coach: Oscar
+
+>>>>>>> add-coach
 =======
 coach: Oscar
 
@@ -12,7 +17,11 @@ members:
 - William
 - David
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Olivia
+=======
+- Oscar
+>>>>>>> add-coach
 =======
 - Oscar
 >>>>>>> add-coach
